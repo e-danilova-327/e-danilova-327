@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @e-danilova-327
-- 👀 I’m interested in travelling, baking stuff, reading, Van Gogh paintings, numbers, psychology and lots of othe stuff.
+- 👀 I’m interested in travelling, baking stuff, reading, Van Gogh paintings, numbers, psychology and lots of other stuff.
 - 🌱 I’m currently learning Web Development, dreaming of becoming a top-notch Software Engineer.
 
 
